@@ -7,8 +7,6 @@ In this competition, participants are given historical sales data from 45 Walmar
 # Project Objective
 The objective of this project is to analyze Walmart's sales data in order to identify the factors that impact sales performance across different branches. Through this analysis, the project seeks to uncover insights that can guide the improvement and optimization of sales strategies for various store locations.
 
-Approach Used
-
 # Approach used
 
 # 1. Data Wrangling:
