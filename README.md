@@ -1,6 +1,6 @@
 # WalmartSales_SQL_Analysis
 
-This project aims to analyze Walmart's sales data to identify top-performing branches and products, examine sales trends across different product categories, and better understand customer behavior. The goal is to explore ways to enhance and optimize sales strategies. The dataset used in this analysis comes from the Kaggle Walmart Sales Forecasting Competition (https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) 
+This project aims to analyze Walmart's sales data to identify top-performing branches and products, examine sales trends across different product categories, and better understand customer behavior. The goal is to explore ways to enhance and optimize sales strategies. The dataset used in this analysis comes from the Kaggle Walmart Sales Forecasting Competition (https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
 In this competition, participants are given historical sales data from 45 Walmart stores in various regions. Each store features multiple departments, and the task is to forecast sales for each department at each location. To increase the challenge, the dataset includes selected holiday markdown events, which are known to influence sales, but predicting their impact on specific departments and the extent of the effect is a complex task.
 
